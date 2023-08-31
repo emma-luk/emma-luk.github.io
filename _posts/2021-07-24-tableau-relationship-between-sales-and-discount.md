@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Earthquake Tracking Dashboard Using Tableau
-image: "/posts/tableau-map-image.png"
+title: Relationships between Customer, Sales and Discount Using Tableau
+image: "/posts/relationship-between-sales-and-discount.png"
 tags: [Tableau, Data Vis]
 ---
 
-This is a Tableau Dashboard that tracks global Earthquake activity across a 30-day period
+This is a Tableau Dashboard that tracks Relationships between customer, sales and discount
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/EarthquakeDashboard_16929022734240/EarthquakeTracker?:embed=yes&:display_count=yes&:showVizHome=no" width = '1090' height = '900'></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/Relationshipbetweencustomersalesdiscount/Relationshipbetweensalesanddiscount?:embed=yes&:display_count=yes&:showVizHome=no" width = '1090' height = '900'></iframe>
